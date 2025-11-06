@@ -1,6 +1,9 @@
 # UTS-KECERDASAN-BUATAN-SEMESTER-7
 
-Nama : Robby Firmansyah
-NIM : 312210643
-Kelas : TI.22.A.SE.1
+- Nama : Robby Firmansyah
+- 
+- NIM : 312210643
+- 
+- Kelas : TI.22.A.SE.1
+
 
